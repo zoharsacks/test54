@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "Dull Slow Walker"
 date:   2017-03-01 16:16:01-0600
 ---
